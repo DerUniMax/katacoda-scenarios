@@ -11,4 +11,4 @@ CREATE TABLE orders (
 );
 `{{execute}}
 <br />we named the table orders, it gets an id-column which functions as primary key, as well as an infos column, this is used
-to store infos
+to store infos 
