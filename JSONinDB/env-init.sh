@@ -3,4 +3,4 @@
 # run in foreground
 
 docker run --name postgresql -e POSTGRES_PASSWORD=mysecretpassword -d postgres
-docker exec -tiu postgres postgres psql
+docker exec -tiu postgres postgresql psql
