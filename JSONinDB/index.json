@@ -27,6 +27,7 @@
       }
     ],
     "intro": {
+      "code": "env-init.sh",
       "text": "intro.md"
     },
     "finish": {
