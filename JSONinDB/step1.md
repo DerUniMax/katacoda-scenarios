@@ -12,7 +12,7 @@ Figure 1: JSON-object
 
 But a JSON can also contain an *array*, a *value*, a *string*, or a *number*.
 
-![JSON](assets/JSON.png)
+<img src="assets/JSON.png" alt="JSON datatype" style="max-width: 350px; width: 100%; display: block">
 Figure 2: JSON datatype
 
 These can be used by a Database to store Data and provide a good format to exchange Data between Databases.
