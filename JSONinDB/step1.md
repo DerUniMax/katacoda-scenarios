@@ -12,7 +12,7 @@ Figure 1: JSON-object
 
 But a JSON can also contain an *array*, a *value*, a *string*, or a *number*.
 
-![JSON](assets/JSON.png)
+![JSON](https://raw.githubusercontent.com/DerUniMax/katacoda-scenarios/main/JSONinDB/assets/JSON.png)
 Figure 2: JSON datatype
 
 These can be used by a Database to store Data and provide a good format to exchange Data between Databases.
