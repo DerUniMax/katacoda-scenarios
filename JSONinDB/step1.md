@@ -8,6 +8,7 @@ Each name and value are separated by a colon, the pair of name and value are sep
 The most common content of a JSON-Document is an Object.
 
 ![JSON Object](https://www.json.org/img/object.png)
+Figure 1: JSON-object
 
 But a JSON can also contain an *array*, a *value*, a *string* or a *number*.
 

@@ -23,3 +23,5 @@ VALUES('{ "customer": "Chadwick Boseman", "items": {"product": "Black-Panther cl
 Now we inserted multiple rows of JSON data into the row *info*
 
 How to access this data will be shown in the next step.
+
+[2][3]

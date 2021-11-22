@@ -8,3 +8,5 @@ If you want to filter the returned rows for a specific value you can use the *WH
  WHERE info -> 'items' ->> 'product' = 'Shield';`{{execute}}<br/>
  
 This returns all customers who bought a shield.
+
+[2][3]

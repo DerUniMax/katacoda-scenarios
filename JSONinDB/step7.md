@@ -7,7 +7,7 @@ These would be:
 - COUNT() – return the number of values. 
 - MAX() – return the maximum value.
 - MIN() – return the minimum value.
-- SUM() – return the sum of all or distinct values.
+- SUM() – return the sum of all values.
 
 `SELECT 
     AVG (CAST (info -> 'items' ->> 'qty' AS INTEGER)),
@@ -18,3 +18,5 @@ These would be:
  FROM orders;`{{execute}}<br/>
  
  Now we display all previously mentioned aggregate functions used on the column *qty*.
+ 
+ [2][3]
