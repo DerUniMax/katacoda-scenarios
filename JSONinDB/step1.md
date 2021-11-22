@@ -10,7 +10,10 @@ The most common content of a JSON-Document is an Object.
 ![JSON Object](https://www.json.org/img/object.png)
 Figure 1: JSON-object
 
-But a JSON can also contain an *array*, a *value*, a *string* or a *number*.
+But a JSON can also contain an *array*, a *value*, a *string*, or a *number*.
+
+![JSON](JSON.png)
+Figure 2: JSON datatype
 
 These can be used by a Database to store Data and provide a good format to exchange Data between Databases.
 
