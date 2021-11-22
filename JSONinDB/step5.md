@@ -24,4 +24,4 @@ If you wish to list all *qty* of a specific *item* you can use both operators in
  FROM orders
  ORDER BY quantity;`{{execute}}<br/>
  
-Now all quantities of are listed.
+Now all quantities of are listed and sorted by magnitude.

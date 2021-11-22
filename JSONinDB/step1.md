@@ -1,4 +1,4 @@
-##What is a JSON?
+<title>What is a JSON?</title>
 JSON (JavaScript Object Notation) was developed as a light and human readable/writable data-interchange format.
 It is implemented as a non language-bound text format, which uses some aspects of the C-family. 
 
