@@ -1,6 +1,6 @@
 {
   "title": "JSON in DB",
-  "description": "Usecases for JSON in relational DB",
+  "description": "Use of JSON in relational DB",
   "difficulty": "Beginner",
   "time": "15 minutes",
   "details": {
@@ -24,6 +24,18 @@
       {
         "title": "Step 5",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 7",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 8",
+        "text": "step4.md"
       }
     ],
     "intro": {
