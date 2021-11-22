@@ -1,5 +1,6 @@
 ##How do I use JSON?
 ###Insert data into table
+
 Now we need to insert data with the *INSERT* command. We insert our JSON values into the *orders* table into the column 
 *info*.
 
